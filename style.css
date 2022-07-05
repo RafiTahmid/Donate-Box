@@ -1,0 +1,66 @@
+body{
+    font-family: 'Finlandica', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.top-banner{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100% 100%;
+    padding-bottom: 20px;
+    
+}
+
+#top-baner-para{
+    text-align: center;
+    color: wheat;
+    
+}
+
+.donate-button{
+    color: crimson;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    font-weight: 800;
+    text-decoration: none;
+    background-image: linear-gradient(coral, orange);
+    border-radius: 6px;
+    background-color: white;
+    width: 180px;
+    margin: 20px 40px 20px 45%;
+}
+
+h2{
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+.donate-para{
+    text-align: center;
+    color: grey;
+}
+
+.top-head{
+    padding-top: 50px;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    
+}
+
+
+
+
