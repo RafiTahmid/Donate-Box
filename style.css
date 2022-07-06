@@ -4,13 +4,23 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-h1{
+.top-head{
     font-size: 60px;
     color: white;
     text-align: center;
     margin: 0;
     padding: 0;
+    padding-top: 180px;
+    margin-left: 20px;
+    padding-bottom: 10px;
     
+}
+.second-header{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
 }
 
 .top-banner{
@@ -22,7 +32,7 @@ h1{
     
 }
 
-#top-baner-para{
+#top-banner-para{
     text-align: center;
     color: wheat;
     
@@ -41,6 +51,7 @@ h1{
     background-color: white;
     width: 180px;
     margin: 20px 40px 20px 45%;
+
 }
 
 h2{
@@ -113,5 +124,58 @@ h2{
 
 .inline-boxes{
     text-align: center;
+    padding-block: 10px;
+    
+}
+
+.input-money{
+    text-align: center;
+}
+
+.donate-today{
+    margin-top: 30px;
+    
+}
+
+.donation-plan{
+    display: flex;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.border-decoration{
+    width: 30%;
+    padding-left: 5%; 
+    padding-right: 5%;
+    
+}
+
+.food{
+    padding-top: 5%;
+    padding-left: 2%;
+    border: 2px;
+    background-color: rgb(202, 201, 201);
+    margin-right: 20px;
+    
+
+}
+
+.shelter{
+    padding-top: 5%; 
+    padding-left: 2%;
+
+    border: 2px;
+    background-color: rgb(242, 220, 224);
+
+}
+
+.education{
+    padding-top: 5%;
+    padding-left: 2%;
+
+    border: 2px ;
+    background-color: rgb(242, 228, 203);
+    margin-left: 20px;
+
 }
 
